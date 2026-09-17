@@ -9,7 +9,9 @@
     "root": "/RS2423/zhourui/final_four_model_pipeline",
     "selected": "/RS2423/zhourui/final_four_model_pipeline/selected_spectra.json",
     "catalog": "/RS2423/zhourui/final_four_model_pipeline/msa_catalog_atlas.cat",
-    "oiii_root": "/RS2423/zhourui/final_four_model_pipeline/results/oiii"
+    "oiii_root": "/RS2423/zhourui/final_four_model_pipeline/results/oiii",
+    "line_json": "/RS2423/zhourui/final_four_model_pipeline/blagn_emission_line_file_list.json",
+    "spectra_root": "/RS2423/JWST/DJA_NIRSpec_prism/BLAGN_0"
   },
   "published": [
     "AURORA_1914_5469",
