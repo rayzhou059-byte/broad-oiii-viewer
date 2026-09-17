@@ -1,0 +1,32 @@
+{
+  "selection": {
+    "mode": "srcid_list",
+    "threshold_kms": 800.0,
+    "threshold_kind": "fwhm",
+    "width_basis": "observed"
+  },
+  "inputs": {
+    "root": "/RS2423/zhourui/final_four_model_pipeline",
+    "selected": "/RS2423/zhourui/final_four_model_pipeline/selected_spectra.json",
+    "catalog": "/RS2423/zhourui/final_four_model_pipeline/msa_catalog_atlas.cat",
+    "oiii_root": "/RS2423/zhourui/final_four_model_pipeline/results/oiii",
+    "line_json": "/RS2423/zhourui/final_four_model_pipeline/blagn_emission_line_file_list.json",
+    "spectra_root": "/RS2423/JWST/DJA_NIRSpec_prism/BLAGN_0"
+  },
+  "published": [
+    "AURORA_1914_5469",
+    "BLUEJAY_1810_11142",
+    "COSMOS_4318_126891",
+    "GDS_1207_209962",
+    "JADES_1180_197911",
+    "VALENTINO_3567_262",
+    "CEERS_1345_2904",
+    "GDS_1671_37005",
+    "JADES_1180_5807",
+    "JADES_1180_6112",
+    "JADES_1181_25055",
+    "VALENTINO_3567_45518"
+  ],
+  "rejected": {},
+  "failures": {}
+}
